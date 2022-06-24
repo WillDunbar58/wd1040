@@ -1,0 +1,125 @@
+body {
+	
+	background-color: #e8e8e8;
+	vlink: #ff0000;
+	align: center;
+}
+
+#OldCamera {
+	
+	float: right;
+	margin: 50px;
+	
+}
+
+#CEO {
+
+	float: right;
+	margin: 10px;
+	width: 400px;
+	height: 400px;
+	
+
+}
+
+#HeadSetDesigner {
+	
+	float: right;
+	margin: 10px;
+	width: 400px;
+	height: 400px;
+
+}
+
+#Camera {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	
+
+}
+
+#Audio {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	
+
+}
+
+#Contract {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	
+
+}
+
+#Environment {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	
+
+}
+
+
+#Policy {
+
+	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+	color: rgb(75,66,97);
+
+}
+
+
+#Map {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+
+}
+
+#Offices {
+	
+	font-family: "Gill Sans Extrabold", sans-serif;
+	text-align: center;
+	color: rgb(0,0,0);
+
+}
+
+#Facebook {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 33%
+
+}
+
+#links {
+
+	overflow: hidden;
+	list-style: none;
+	font-weight: 700;
+	border-style: solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	text-align: center;
+	padding: 14px 16px;
+	font-size: 17px;
+
+}
+	

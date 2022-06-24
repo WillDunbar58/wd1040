@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<title>Cam Technicals</title>
+			<meta charset="utf-8">
+			<link href="main.css" rel="stylesheet" type="text/css">
+		</head>
+		<body bgcolor="#e8e8e8" text="#048000" vlink="#ff0000"<b><font size="6">
+<p align="center">CAMTECHNICALS</font><br>Images Brought To You<br>Will Dunbar</b><font 
+size=2></p></font>
+<font size="10">ABOUT US!<br></font>
+<div id="links">
+<a href="Dunbar Wesbite 4.html">HOME</a>
+<a href="index.html">ABOUT US</a>
+<a href="employees.html">EMPLOYEES</a>
+<a href="products.html">PRODUCTS</a>
+<a href="policies.html">POLICIES</a>
+<a href="contact_us.html">CONTACT US</a>
+</div>
+<hr>
+<img id="OldCamera" src="camera-g47c6cb888_640.jpg">
+<p align="center">
+<center>
+<font size ="6">Since our foundation in 1984, Will Dunbar has lead the CamTechnicals team into stardum.
+<br><br/>On September 21, 1992, CamTechnicals partnered with Sony pictures to provide improved sound quality,
+rent out equipment to providers, and educate potential clients for new films using technical gear. To date, 
+CamTechnicals has been the leading provider of camera services to large companies, including WarnerMedia,
+Paramount, and Disney. Films that used our equipment included The Lion King, Independance Day, and Top 
+Gun.<br></br>We provide high-quality products for cheap prices at hand-dealt costs. All costs are personalized
+per customer.</font>
+</body>
+</html>
