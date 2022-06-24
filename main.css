@@ -5,6 +5,22 @@ body {
 	align: center;
 }
 
+#title {
+	
+	text-align: center;
+	font-size: 40px;
+	color: rgb(121,163,95)
+
+}
+
+#caption {
+
+	text-align: center;
+	font-size: 25px;
+	color: rgb(121,163,95)
+
+}
+
 #OldCamera {
 	
 	float: right;

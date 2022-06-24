@@ -5,9 +5,10 @@
 			<meta charset="utf-8">
 			<link href="main.css" rel="stylesheet" type="text/css">
 		</head>
-		<body bgcolor="#e8e8e8" text="#048000" vlink="#ff0000"<b><font size="6">
-<p align="center">CAMTECHNICALS</font><br>Images Brought To You<br>Will Dunbar</b><font 
-size=2></p></font>
+		<body>
+<div id="title">CAMTECHNICALS</div>
+<br>
+<div id="caption">Images Brought To You<br>Will Dunbar</b></div>
 <font size ="8">CONTACT US!</font>
 <div id="links">
 <a href="Dunbar Wesbite 4.html">HOME</a>
